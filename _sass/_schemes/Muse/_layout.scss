@@ -2,8 +2,14 @@
   @include mobile() { width: auto; }
 }
 
+@media (max-width: 767px) {
+  .fork-me {
+    display: none;
+  }
+}
+
 // embed tag
 embed {
-   display: block;
-   margin:  0px auto 25px auto;
+  display: block;
+  margin:  0px auto 25px auto;
 }

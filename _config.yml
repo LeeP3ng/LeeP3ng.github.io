@@ -5,7 +5,7 @@
 
 # Site
 title: LeeP3ng's Blog
-subtitle: Always humble in the face of technology
+subtitle: always humble in the face of technology
 description: 不要给自己设限，喜欢写代码，就享受写代码的感觉和快乐
 author: 韦七
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -153,8 +153,8 @@ menu_icons:
 
 # Schemes
 scheme: Muse
-#scheme: Mist
-#scheme: Pisces
+# scheme: Mist
+# scheme: Pisces
 
 
 # ---------------------------------------------------------------

@@ -15,7 +15,6 @@
 {% when 'schedule' %}
   {% capture post_title %}{{ __.title.schedule }}{% endcapture %}
 {% endcase %}
-	<{% if site.seo %}h2{% else %}h1{% endif %} class="post-title" itemprop="name headline">{{ post_title }}</{% if site.seo %}h2{% else %}h1{% endif %}>
 
 {% if page.description %}
 	<div class="post-meta">

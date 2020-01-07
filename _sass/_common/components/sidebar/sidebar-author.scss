@@ -1,10 +1,20 @@
 .site-author-image {
   display: block;
   margin: 0 auto;
+  border-radius: 50%;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
   padding: $site-author-image-padding;
   max-width: $site-author-image-width;
   height: $site-author-image-height;
   border: $site-author-image-border-width solid $site-author-image-border-color;
+  &:hover {
+    cursor: pointer;
+    border-radius: 0px;
+  }
 }
 
 .site-author-name {
