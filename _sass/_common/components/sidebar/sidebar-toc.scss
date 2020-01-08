@@ -37,7 +37,8 @@
   line-height: 1.8;
 }
 
-.post-toc .nav .nav-child { display: none; }
+// 文章目录全部展开 关闭可改为 display: none;
+.post-toc .nav .nav-child { display: block; }
 
 .post-toc .nav .active > .nav-child { display: block; }
 

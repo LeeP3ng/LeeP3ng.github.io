@@ -169,7 +169,7 @@ font:
   enable: true
 
   # Uri of fonts host. E.g. //fonts.googleapis.com (Default)
-  host:
+  host: //fonts.loli.net
 
   # Global font settings used on <body> element.
   global:
@@ -448,11 +448,11 @@ gitalk:
 # Available value:
 #    button | slide
 # Warning: Baidu Share does not support https.
-#baidushare:
-##  type: button
+# baidushare:
+#   type: button
 
 # Share
-jiathis: true
+jiathis: false
 # Warning: JiaThis does not support https.
 #add_this_id:
 
@@ -659,7 +659,7 @@ vendors:
   _internal: assets/lib
 
   # Internal version: 2.1.3
-  jquery:
+  jquery: https://ajax.loli.net/ajax/libs/jquery/2.2.0/jquery.min.js
 
   # Internal version: 2.1.5
   # See: http://fancyapps.com/fancybox/
