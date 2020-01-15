@@ -231,10 +231,10 @@
                   <i class="fa fa-file-word-o"></i>
                 </span>
                 {% if site.post_wordcount.item_text %}
-                  <span class="post-meta-item-text">{{ __.post.wordcount }}</span>
+                  <span class="post-meta-item-text">{{ __.post.wordcount }} &asymp;</span>
                 {% endif %}
                 <span title="{{ __.post.wordcount }}">
-                  {{ wordcount }}
+                  {{ wordcount }} 个字
                 </span>
               {% endif %}
 
@@ -247,7 +247,7 @@
                   <i class="fa fa-clock-o"></i>
                 </span>
                 {% if site.post_wordcount.item_text %}
-                  <span class="post-meta-item-text">{{ __.post.min2read }}</span>
+                  <span class="post-meta-item-text">{{ __.post.min2read }} &asymp;</span>
                 {% endif %}
                 <span title="{{ __.post.min2read }}">
                   {{ wordcount | divided_by: 200 }} 分钟
