@@ -10,6 +10,8 @@
     } else if (/json$/i.test(search_path)) {
       isXml = false;
     }
+
+    // 解决文章内 local_search 无法使用的问题，site.baseurl 固定成 '/'
     // var path = "{{ site.baseurl }}" + search_path;
     var path = "/" + search_path;
     // monitor main search box;
