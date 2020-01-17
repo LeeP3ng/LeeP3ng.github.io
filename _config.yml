@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: LeeP3ng's Blog
+title: 韦七
 subtitle: always humble in the face of technology
 description: 不要给自己设限，喜欢写代码，就享受写代码的感觉和快乐
 author: 韦七
@@ -319,7 +319,7 @@ post_meta:
 # Post wordcount display settings
 post_wordcount:
   item_text: true
-  wordcount: true
+  wordcount: false
   min2read: true
   separated_meta: true
 
