@@ -9,7 +9,18 @@ type: about
 
 ### 个人简介
 
-  前端🐶
+  前端🐱
+
+### 专业技能
+
+  1、vue、vue-cli2, vue-cli3, es6
+
+  2、Ruby + MySQL + Redis
+
+  3、Linux
+
+  4、socket
+
 
 ### 联系方式
 
