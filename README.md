@@ -1,3 +1,13 @@
+### 安装运行环境
+
+访问[Ruby](http://railsinstaller.org/en)官网,下载安装Ruby安装包，并确保安装的Ruby版本在2.1.0以上。
+
+安装Bundler
+
+```
+gem install bundler
+```
+
 ### 发布博文
 
 在你的博客的GitHub代码库页面里，点开_posts文件夹，这里面就是你的博客文章。
