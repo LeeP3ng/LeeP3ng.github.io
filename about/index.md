@@ -13,13 +13,11 @@ type: about
 
 ### 专业技能
 
-  1、vue、vue-cli2, vue-cli3, es6
+  1、Vue， ES6， Webpack， Websocket， HTML5， CSS3
 
-  2、Ruby + MySQL + Redis
+  2、Ruby， MySQL， Redis
 
   3、Linux
-
-  4、socket
 
 
 ### 联系方式
