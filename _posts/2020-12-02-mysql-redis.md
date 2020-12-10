@@ -1,11 +1,13 @@
 ---
 title: MySQL 与 Redis 的区别
 date: 2020-12-02
-updated: 
+updated: 2020-12-10
 categories:
 - MySQL
+- Redis
 tags:
 - MySQL
+- Redis
 ---
 
 ### 写在前面
